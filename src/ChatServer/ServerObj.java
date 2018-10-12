@@ -170,6 +170,7 @@ public class ServerObj extends UnicastRemoteObject implements ServerInt{
     }
     List<ClientInt>clients=new ArrayList<ClientInt>();
     List<String>clientsName=new ArrayList<String>();
+    List<String>roomsName=new ArrayList<String>();
     
     
     
